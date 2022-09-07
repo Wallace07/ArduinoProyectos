@@ -1,5 +1,5 @@
 // C++ code
-//
+//Caneca_ apertura con servomotor_ ultrasonido 1 apertura _Ultraosnido 2 nivel de llenado
 //Cables Morados: Alimentaciòn
 //Cables negros: Tierra
 //Cables Amarillos: Outputs
